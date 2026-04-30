@@ -1,6 +1,6 @@
 # Password Generator
 
-A simple password generator built using JavaScript.
+A simple password generator built using React.
 
 ## Features
 - Generate strong passwords
